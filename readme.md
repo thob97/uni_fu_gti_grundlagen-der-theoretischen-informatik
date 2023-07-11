@@ -1,4 +1,4 @@
-# Title
+# Grundlagen der theoretischen Informatik
 
 The purpose of this repository is to serve as data storage and to present the completed work of the course Grundlagen der theoretischen Informatik at Freie Universität Berlin.
 
