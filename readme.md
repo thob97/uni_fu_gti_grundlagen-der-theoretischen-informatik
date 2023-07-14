@@ -7,6 +7,7 @@ The purpose of this repository is to serve as data storage and to present the co
 - [Course content](#course-content)
 - [Grading](#grading)
 - [Contribution](#contribution)
+- [See also](#see-also)
 
 
 ## Course content
@@ -43,3 +44,6 @@ Einführung in die Komplexität von Problemen
 
 * Thore Brehmer - solved tasks u1-u11
 * David Lee - 
+  
+## See also
+* [Uni Overview](https://github.com/thob97/uni_overview.git)
